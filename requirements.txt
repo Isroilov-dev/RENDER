@@ -1,2 +1,3 @@
 aiogram
 python-dotenv  # If you're using a .env file
+asyncio
